@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>it.imolinfo</groupId>
-	<artifactId>springprova2</artifactId>
+	<artifactId>spring-boot-prova1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>springprova2</name>
+	<name>spring boot prova1</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
